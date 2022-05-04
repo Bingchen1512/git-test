@@ -1,5 +1,6 @@
 hello git! hello bingchen!
 hello git! hello bingchen!
+hello git! hello bingchen!44444444
 hello git! hello bingchen!
 hello git! hello bingchen!
 hello git! hello bingchen!
@@ -14,5 +15,4 @@ hello git! hello bingchen!
 hello git! hello bingchen!
 hello git! hello bingchen!
 hello git! hello bingchen!
-hello git! hello bingchen!
-hello git! hello bingchen!
+hello git! hello bingchen! hot-fix test
